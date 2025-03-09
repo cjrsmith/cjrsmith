@@ -1,8 +1,8 @@
-## Hey 👋
+## Hi 👋
 
-I make indie software & games that do things a little differently. Founder of https://www.4610.software/ 🃏. Just launched ClickUp Champ. Software engineer at Oxford Quantum Circuits. Neovim BTW.
+I make independent software & games that do things a little differently. Founder of [4610](https://4610.software)🃏. I've just launched ClickUp Champ on Firefox and Chrome. Software Engineering Manager at Oxford Quantum Circuits.
 
-If you like the things I do you can support me through 4610 at Ko-Fi 👇
+If you like the things I do you, can support me through 4610 on Ko-Fi 👇
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L61B4ZXD)
 
