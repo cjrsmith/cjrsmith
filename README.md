@@ -1,6 +1,12 @@
 ## Hi 👋
 
-I make independent software & games that do things a little differently. Founder of [4610](https://4610.software)🃏. I've just launched ClickUp Champ on Firefox and Chrome. Software Engineering Manager at Oxford Quantum Circuits.
+I’m a software engineer and creative developer, building immersive, highly visual apps, games, and websites that rethink how people interact with digital tools. I specialise in blending design, interactivity, and technology to create experiences that feel more engaging and intuitive.
+
+Founder of [4610](https://4610.software)🃏, where I explore new ways to make software more interactive. My latest project, BetterBacklog, is a reimagined task management tool that turns work into a tangible, 3D visual experience.
+
+Just launched ClickUp Champ on Firefox & Chrome.
+
+I'm also a Software Engineering Manager at Oxford Quantum Circuits.
 
 If you like the things I do you, can support me through 4610 on Ko-Fi 👇
 
