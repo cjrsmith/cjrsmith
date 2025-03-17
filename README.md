@@ -8,7 +8,7 @@ Just launched ClickUp Champ on Firefox & Chrome.
 
 I'm also a Software Engineering Manager at Oxford Quantum Circuits.
 
-If you like the things I do you, can support me through 4610 on Ko-Fi 👇
+If you like the things I do, you can support me through 4610 on Ko-Fi 👇
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L61B4ZXD)
 
